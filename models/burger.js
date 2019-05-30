@@ -18,11 +18,4 @@ const burger = {
   }
 };
 
-
-  updateOne:
-
-
-}
-
-
 module.exports = burger;
